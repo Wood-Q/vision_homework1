@@ -1,0 +1,21 @@
+[1.981s] Invoking command in '/home/woodq/Desktop/moon/src/niluo': PYTHONPATH=/home/woodq/Desktop/moon/build/niluo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woodq/Desktop/moon/install/niluo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/niluo build --build-base /home/woodq/Desktop/moon/build/niluo/build install --record /home/woodq/Desktop/moon/build/niluo/install.log --single-version-externally-managed install_data
+[2.516s] running egg_info
+[2.518s] writing ../../build/niluo/niluo.egg-info/PKG-INFO
+[2.518s] writing dependency_links to ../../build/niluo/niluo.egg-info/dependency_links.txt
+[2.519s] writing entry points to ../../build/niluo/niluo.egg-info/entry_points.txt
+[2.521s] writing requirements to ../../build/niluo/niluo.egg-info/requires.txt
+[2.522s] writing top-level names to ../../build/niluo/niluo.egg-info/top_level.txt
+[2.524s] reading manifest file '../../build/niluo/niluo.egg-info/SOURCES.txt'
+[2.536s] writing manifest file '../../build/niluo/niluo.egg-info/SOURCES.txt'
+[2.537s] running build
+[2.537s] running build_py
+[2.537s] running install
+[2.537s] running install_lib
+[2.541s] running install_data
+[2.541s] running install_egg_info
+[2.543s] removing '/home/woodq/Desktop/moon/install/niluo/lib/python3.10/site-packages/niluo-0.0.0-py3.10.egg-info' (and everything under it)
+[2.544s] Copying ../../build/niluo/niluo.egg-info to /home/woodq/Desktop/moon/install/niluo/lib/python3.10/site-packages/niluo-0.0.0-py3.10.egg-info
+[2.547s] running install_scripts
+[2.600s] Installing niluo_node script to /home/woodq/Desktop/moon/install/niluo/lib/niluo
+[2.601s] writing list of installed files to '/home/woodq/Desktop/moon/build/niluo/install.log'
+[2.636s] Invoked command in '/home/woodq/Desktop/moon/src/niluo' returned '0': PYTHONPATH=/home/woodq/Desktop/moon/build/niluo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woodq/Desktop/moon/install/niluo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/niluo build --build-base /home/woodq/Desktop/moon/build/niluo/build install --record /home/woodq/Desktop/moon/build/niluo/install.log --single-version-externally-managed install_data

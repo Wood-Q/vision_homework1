@@ -1,0 +1,3 @@
+[console_scripts]
+student_node = student.student:main
+

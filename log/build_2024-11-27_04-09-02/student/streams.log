@@ -1,0 +1,37 @@
+[1.964s] Invoking command in '/home/woodq/Desktop/moon/src/student': PYTHONPATH=/home/woodq/Desktop/moon/build/student/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/student build --build-base /home/woodq/Desktop/moon/build/student/build install --record /home/woodq/Desktop/moon/build/student/install.log --single-version-externally-managed install_data
+[2.483s] running egg_info
+[2.484s] creating ../../build/student/student.egg-info
+[2.485s] writing ../../build/student/student.egg-info/PKG-INFO
+[2.486s] writing dependency_links to ../../build/student/student.egg-info/dependency_links.txt
+[2.487s] writing entry points to ../../build/student/student.egg-info/entry_points.txt
+[2.488s] writing requirements to ../../build/student/student.egg-info/requires.txt
+[2.488s] writing top-level names to ../../build/student/student.egg-info/top_level.txt
+[2.497s] writing manifest file '../../build/student/student.egg-info/SOURCES.txt'
+[2.498s] reading manifest file '../../build/student/student.egg-info/SOURCES.txt'
+[2.498s] writing manifest file '../../build/student/student.egg-info/SOURCES.txt'
+[2.500s] running build
+[2.500s] running build_py
+[2.501s] creating /home/woodq/Desktop/moon/build/student/build
+[2.501s] creating /home/woodq/Desktop/moon/build/student/build/lib
+[2.501s] creating /home/woodq/Desktop/moon/build/student/build/lib/student
+[2.503s] copying student/student.py -> /home/woodq/Desktop/moon/build/student/build/lib/student
+[2.503s] copying student/__init__.py -> /home/woodq/Desktop/moon/build/student/build/lib/student
+[2.505s] running install
+[2.505s] running install_lib
+[2.506s] creating /home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student
+[2.506s] copying /home/woodq/Desktop/moon/build/student/build/lib/student/student.py -> /home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student
+[2.506s] copying /home/woodq/Desktop/moon/build/student/build/lib/student/__init__.py -> /home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student
+[2.508s] byte-compiling /home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student/student.py to student.cpython-310.pyc
+[2.508s] byte-compiling /home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student/__init__.py to __init__.cpython-310.pyc
+[2.509s] running install_data
+[2.509s] creating /home/woodq/Desktop/moon/install/student/share/ament_index
+[2.510s] creating /home/woodq/Desktop/moon/install/student/share/ament_index/resource_index
+[2.511s] creating /home/woodq/Desktop/moon/install/student/share/ament_index/resource_index/packages
+[2.512s] copying resource/student -> /home/woodq/Desktop/moon/install/student/share/ament_index/resource_index/packages
+[2.512s] copying package.xml -> /home/woodq/Desktop/moon/install/student/share/student
+[2.512s] running install_egg_info
+[2.520s] Copying ../../build/student/student.egg-info to /home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student-0.0.0-py3.10.egg-info
+[2.520s] running install_scripts
+[2.571s] Installing student_node script to /home/woodq/Desktop/moon/install/student/lib/student
+[2.571s] writing list of installed files to '/home/woodq/Desktop/moon/build/student/install.log'
+[2.656s] Invoked command in '/home/woodq/Desktop/moon/src/student' returned '0': PYTHONPATH=/home/woodq/Desktop/moon/build/student/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/student build --build-base /home/woodq/Desktop/moon/build/student/build install --record /home/woodq/Desktop/moon/build/student/install.log --single-version-externally-managed install_data

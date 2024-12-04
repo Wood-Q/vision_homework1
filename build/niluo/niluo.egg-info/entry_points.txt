@@ -1,0 +1,3 @@
+[console_scripts]
+niluo_node = niluo.niluo:main
+

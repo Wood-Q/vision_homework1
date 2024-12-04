@@ -1,0 +1,21 @@
+[2.440s] Invoking command in '/home/woodq/Desktop/moon/src/student': PYTHONPATH=/home/woodq/Desktop/moon/build/student/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/student build --build-base /home/woodq/Desktop/moon/build/student/build install --record /home/woodq/Desktop/moon/build/student/install.log --single-version-externally-managed install_data
+[2.969s] running egg_info
+[2.969s] writing ../../build/student/student.egg-info/PKG-INFO
+[2.970s] writing dependency_links to ../../build/student/student.egg-info/dependency_links.txt
+[2.971s] writing entry points to ../../build/student/student.egg-info/entry_points.txt
+[2.972s] writing requirements to ../../build/student/student.egg-info/requires.txt
+[2.973s] writing top-level names to ../../build/student/student.egg-info/top_level.txt
+[2.977s] reading manifest file '../../build/student/student.egg-info/SOURCES.txt'
+[2.983s] writing manifest file '../../build/student/student.egg-info/SOURCES.txt'
+[2.987s] running build
+[2.988s] running build_py
+[2.988s] running install
+[2.988s] running install_lib
+[2.988s] running install_data
+[2.988s] running install_egg_info
+[2.992s] removing '/home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student-0.0.0-py3.10.egg-info' (and everything under it)
+[2.992s] Copying ../../build/student/student.egg-info to /home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages/student-0.0.0-py3.10.egg-info
+[2.995s] running install_scripts
+[3.052s] Installing student_node script to /home/woodq/Desktop/moon/install/student/lib/student
+[3.053s] writing list of installed files to '/home/woodq/Desktop/moon/build/student/install.log'
+[3.102s] Invoked command in '/home/woodq/Desktop/moon/src/student' returned '0': PYTHONPATH=/home/woodq/Desktop/moon/build/student/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woodq/Desktop/moon/install/student/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/student build --build-base /home/woodq/Desktop/moon/build/student/build install --record /home/woodq/Desktop/moon/build/student/install.log --single-version-externally-managed install_data
